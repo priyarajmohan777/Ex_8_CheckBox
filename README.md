@@ -1,7 +1,9 @@
+### Date:
+
 # Ex_8_CheckBox
 Develop a program to create a option menu using checkboxes and display the toast selected checkboxes with Android Studio
 
-## Date: 
+
 ## AIM:
 To Develop a program for creating a option menu using checkboxes and display the toast selected checkboxes with Android Studio.
 
@@ -30,8 +32,8 @@ Step 7: Save and run the application.
  ```
 /*
 Program to create an Option Menu
-Developed by: 
-RegisterNumber:  
+Developed by: Priya R
+RegisterNumber:  212222040124
 */
 ```
 
